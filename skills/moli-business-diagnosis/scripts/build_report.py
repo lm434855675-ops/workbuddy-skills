@@ -102,7 +102,7 @@ def check_body(spec):
     return errors
 
 
-BRANDFOOT = '<div class="brandfoot" style="margin:24px 0 8px;padding:10px 14px;border:1px dashed var(--line);border-radius:8px;color:var(--sub);font-size:13px">李沫Growth 商业诊断 · 专属版智能体定制：434855675@qq.com（邮箱同微信号）</div>'
+BRANDFOOT = '<div class="brandfoot" style="margin:24px 0 8px;padding:10px 14px;border:1px dashed var(--line);border-radius:8px;color:var(--sub);font-size:13px">这个技能是通用版：你的行业+数据可定制专属版——把你的产品、话术库、客户数据接进来，就是你的专属智能体。<br>李沫Growth 商业诊断 · 专属版智能体定制：434855675@qq.com（邮箱同微信号）</div>'
 
 
 def render_html(spec):

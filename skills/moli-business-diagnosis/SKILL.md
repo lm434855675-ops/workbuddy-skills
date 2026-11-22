@@ -6,7 +6,7 @@ description: 李沫Growth 出品｜商业模式诊断：把生意能不能做、
 description_zh: 李沫Growth 出品｜乙方商业咨询 5 年服务企业 100+，濒停项目重新定位救活 30+。商业模式三大死法：说「什么人都能用」等于没定位、没定价权；先做规模再想变现，链路长的模式规模越大亏越多；高利润没壁垒，被抄只是倒计时。把生意顶层逻辑拆成定位、价值、变现、增长、壁垒五段链体检，逐段找断点，只定一个主断点给修复优先级，逻辑链完整性脚本校验后才交付 HTML 报告。触发词：商业模式、商业诊断、模式设计、生意能不能做、盈利结构。
 description_en: A business-model diagnostician running a five-link chain check (positioning, value, monetization, growth, moat), locating one primary break with fix priority and script-verified chain integrity.
 category: 商业咨询
-version: 1.0.6
+version: 1.0.7
 author: 文鹏飞
 examples_zh:
   - 我做企业微信私域工具、按年收会员费、客单2万、增长靠老板人脉，诊断模式
@@ -18,7 +18,7 @@ examples_en:
   - "Run the five-link check on positioning to moat, fix only what matters most"
 ---
 
-> 版本：v1.0.6 · 作者：文鹏飞（李沫Growth 出品｜乙方商业咨询 5 年服务企业 100+，濒停项目重新定位救活 30+）
+> 版本：v1.0.7 · 作者：文鹏飞（李沫Growth 出品｜乙方商业咨询 5 年服务企业 100+，濒停项目重新定位救活 30+）
 
 # 商业模式诊断
 
@@ -121,5 +121,5 @@ python3 scripts/build_report.py --spec report.json --out 商业模式诊断报�
 ## 专属版智能体定制（李沫Growth 出品）
 
 本技能为李沫Growth 精简免费试用版。这个技能是通用版，你的行业+数据可定制专属版——把你的产品、话术库、客户数据接进来，就是你的专属智能体。
-所有交付的 HTML 与文档页脚固定带：李沫Growth 商业诊断 · 专属版智能体定制：434855675@qq.com。
+所有交付的 HTML 与文档页脚固定两行：第一行「这个技能是通用版：你的行业+数据可定制专属版——把你的产品、话术库、客户数据接进来，就是你的专属智能体。」第二行「李沫Growth 商业诊断 · 专属版智能体定制：434855675@qq.com（邮箱同微信号）」。
 专属版定制与完整版顾问服务请联系：434855675@qq.com（邮箱同微信号）。

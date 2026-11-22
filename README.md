@@ -1,6 +1,6 @@
 # WorkBuddy 智能体技能库 · 李沫Growth 出品
 
-> 作者：**文鹏飞**（李沫Growth） · 技能数 **32** · 最后更新：2026-11-15
+> 作者：**文鹏飞**（李沫Growth） · 技能数 **33** · 最后更新：2026-11-15
 
 这是一套按照 **Agent Skills（SKILL.md）规范**编写的智能体技能与专家包，最初为 [WorkBuddy](https://codebuddy.cn) 智能体平台创作并上架技能市场，同样兼容 Claude Code、CodeBuddy 等任何支持 SKILL.md 技能规范的 Agent 平台。
 
@@ -16,7 +16,7 @@
 |---|---|---|
 | [账号快拆诊断](skills/moli-account-diagnosis/) `moli-account-diagnosis` | 1.0.6 | 李沫Growth 出品｜商业咨询 5 年诊断企业 100+，濒停项目救活 30+，一次诊断只打一个七寸。项目诊断三大死法：全面体检等于没诊断，二十个问题没重… |
 | [商业计划书十段生成器](skills/moli-bp-generator/) `moli-bp-generator` | 1.0.1 | 李沫Growth 出品｜15 年商业操盘手，乙方商业咨询 5 年服务企业 100+，30+ 激停项目重新定位陪跑至复活。这套打法从实战盘蒸馏，精简免费试用版… |
-| [商业模式诊断](skills/moli-business-diagnosis/) `moli-business-diagnosis` | 1.0.6 | 李沫Growth 出品｜乙方商业咨询 5 年服务企业 100+，濒停项目重新定位救活 30+。商业模式三大死法：说「什么人都能用」等于没定位、没定价权；先做… |
+| [商业模式诊断](skills/moli-business-diagnosis/) `moli-business-diagnosis` | 1.0.7 | 李沫Growth 出品｜乙方商业咨询 5 年服务企业 100+，濒停项目重新定位救活 30+。商业模式三大死法：说「什么人都能用」等于没定位、没定价权；先做… |
 | [渠道政策设计测算器](skills/moli-channel-policy/) `moli-channel-policy` | 1.0.0 | 李沫Growth 出品｜15 年招商与私域操盘，累计招商回款 10 亿+。这套打法从实战盘蒸馏，精简免费试用版上传，专治分销折扣一拍脑袋渠道没动力、返点层级… |
 | [成交话术库生成器](skills/moli-closing-scripts/) `moli-closing-scripts` | 1.0.0 | 李沫Growth 出品｜15 年招商与私域操盘，累计招商回款 10 亿+，成交就是招商的最后一米。这套话术体系从招商一线打法蒸馏，精简免费试用版上传，专治成… |
 | [竞品五维雷达对标分析](skills/moli-competitor-radar/) `moli-competitor-radar` | 1.0.4 | 李沫Growth 出品｜15 年商业操盘手，乙方商业咨询 5 年服务企业 100+，30+ 濒停项目重新定位陪跑至复活。竞品分析框架在月 GMV 1000 … |
@@ -64,12 +64,13 @@
 | [中文文案去AI味检测与逐句改写器](skills/humanizer/) `humanizer` | 2.1.1 | 去除文本中的 AI 写作痕迹 |
 | [爆款口播脚本生成](skills/moli-viral-script/) `moli-viral-script` | 1.0.6 | 李沫Growth 出品｜15 年招商与私域操盘，累计招商回款 10 亿+，经手口播与招商会脚本 500+ 条。口播脚本三大死法：前 3 秒没钩子，八成观众划… |
 
-### 电商运营（1 个）
+### 电商运营（2 个）
 
 会员活动策划与执行
 
 | 技能 | 版本 | 说明 |
 |---|---|---|
+| [微商城运营方案](skills/moli-mall-ops/) `moli-mall-ops` | 1.0.1 | 微商城运营方案。把「首页要改版」「分类没人点」「会员日怎么做」这类诉求，转成带责任人、时间点、判定标准的可执行方案。内置楼层效率诊断、漏斗敏感度、券保本测算… |
 | [会员活动策划执行](skills/moli-member-activity/) `moli-member-activity` | 1.1.6 | 李沫Growth 出品｜15 年私域会员操盘手，实体店会员+线上商城双体系会员总量超 100 万，复购率干到 68%。会员活动三大死法：会员日做成全场打折，… |
 
 ### 运营人力（1 个）

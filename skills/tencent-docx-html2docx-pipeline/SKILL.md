@@ -1,5 +1,6 @@
 ---
 name: tencent-docx-html2docx-pipeline
+display_name: 腾讯文档 html→docx 重排版管线
 version: 1.0.0
 author: 文鹏飞
 category: 办公效率
